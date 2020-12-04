@@ -7,7 +7,6 @@ Una red neuronal que aumente la calidad y resolución de imágenes que contengan
 
 -+-+-+SOBRE EL DATASET+-+-+-+-
 
-![alt text](https://github.com/FelosRG/Graficas-SuperResolucion/blob/main/Recursos_README/16.png?raw=true)
 
 disponible en  --- > https://drive.google.com/drive/folders/1E0gTYOyQ0IbbT5FBJ6kR9hsjoD5hZaD1?usp=sharing
 
