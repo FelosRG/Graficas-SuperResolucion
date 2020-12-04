@@ -1,15 +1,13 @@
 # Graficas-SuperResolucion
-
+El objetivo de este proyecto es crear una red neuronal que aumente la calidad y resolución de imágenes que contengan gráficas y figuras.
 
 
 <div align="center" >
 <img src="Figuras/portada.png" width="600" height="400">
 </div>
   
-El objetivo de este proyecto es crear una red neuronal que aumente la calidad y resolución de imágenes que contengan gráficas y figuras.
 
-
-SOBRE EL DATASET
+<b>SOBRE EL DATASET</b>
 
 disponible en  --- > https://drive.google.com/drive/folders/1E0gTYOyQ0IbbT5FBJ6kR9hsjoD5hZaD1?usp=sharing
 
