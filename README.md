@@ -9,7 +9,7 @@ El objetivo de este proyecto es crear una red neuronal que aumente la calidad y 
 
 <b>SOBRE EL DATASET</b>
 
-disponible en  --- > https://drive.google.com/drive/folders/1E0gTYOyQ0IbbT5FBJ6kR9hsjoD5hZaD1?usp=sharing
+Disponible en  --- > https://drive.google.com/drive/folders/1E0gTYOyQ0IbbT5FBJ6kR9hsjoD5hZaD1?usp=sharing
 
 <p align="justify">
 El  dataset contine 1000 imágenes que obtuve de los libros que incluí en la carpeta "Fuentes", las imágenes son en su mayoría diagramas , gráficas e ilustraciones simples en blanco y negro  pero tambien contiene algunas imágenes con solo texto y ecuaciones.
