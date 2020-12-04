@@ -7,6 +7,8 @@ Una red neuronal que aumente la calidad y resolución de imágenes que contengan
 
 -+-+-+SOBRE EL DATASET+-+-+-+-
 
+![alt text](https://github.com/FelosRG/Graficas-SuperResolucion/blob/main/Recuersos-README/16.png?raw=true)
+
 disponible en  --- > https://drive.google.com/drive/folders/1E0gTYOyQ0IbbT5FBJ6kR9hsjoD5hZaD1?usp=sharing
 
 El  dataset contine 1000 imágenes que obtuve de los libros que incluí en la carpeta "Fuentes", las imágenes son en su mayoría diagramas , gráficas e ilustraciones simples en blanco y negro  pero tambien contiene algunas imágenes con solo texto y ecuaciones.
