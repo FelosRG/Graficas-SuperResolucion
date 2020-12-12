@@ -1,0 +1,14 @@
+1) DATA SET
+
+2) DATA ARGUMENTATION
+
+* Añadir ruido al dowsampling, asi como algunos otros defectos a la imágen.
+* Falta más data argumentation
+
+3) ARQUITECTURA
+
+
+4) ENTRENAMIENTO 
+
+
+5) PRUEBA
